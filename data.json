@@ -1,0 +1,329 @@
+{
+    "games":{
+        "tekken": {
+            "inputs": [
+                "1.png",
+                "2.png",
+                "3.png",
+                "4.png",
+                "u.png",
+                "ub.png",
+                "b.png",
+                "db.png",
+                "d.png",
+                "df.png",
+                "f.png",
+                "uf.png",
+                "uh.png",
+                "ubh.png",
+                "bh.png",
+                "dbh.png",
+                "dh.png",
+                "dfh.png",
+                "fh.png",
+                "ufh.png",
+                "n.png",
+                "delay.png",
+                "in.png",
+                "out.png",
+                "jf.png",
+                "tilde.png",
+                "dash.png",
+                "hold.png",
+                "ch.png"
+            ],
+            "characters": {
+                "Kazuya": {
+                    "inputs": [
+                    ]
+                },
+                "Jin": {
+                    "inputs": [
+                    ]
+                },
+                "King": {
+                    "inputs": [
+                    ]
+                },
+                "Jun": {
+                    "inputs": [
+                    ]
+                },
+                "Paul": {
+                    "inputs": [
+                    ]
+                },
+                "Law": {
+                    "inputs": [
+                    ]
+                },
+                "Jack-8": {
+                    "inputs": [
+                    ]
+                },
+                "Lars": {
+                    "inputs": [
+                    ]
+                },
+                "Xiaoyu": {
+                    "inputs": [
+                    ]
+                },
+                "Nina": {
+                    "inputs": [
+                    ]
+                },
+                "Leroy": {
+                    "inputs": [
+                    ]
+                },
+                "Asuka": {
+                    "inputs": [
+                    ]
+                },
+                "Lili": {
+                    "inputs": [
+                    ]
+                },
+                "Bryan": {
+                    "inputs": [
+                    ]
+                },
+                "Hwoarang": {
+                    "inputs": [
+                    ]
+                },
+                "Claudio": {
+                    "inputs": [
+                    ]
+                },
+                "Azucena": {
+                    "inputs": [
+                    ]
+                },
+                "Raven": {
+                    "inputs": [
+                    ]
+                },
+                "Leo": {
+                    "inputs": [
+                    ]
+                },
+                "Steve": {
+                    "inputs": [
+                    ]
+                },
+                "Kuma": {
+                    "inputs": [
+                    ]
+                },
+                "Yoshimitsu": {
+                    "inputs": [
+                    ]
+                },
+                "Shaheen": {
+                    "inputs": [
+                    ]
+                },
+                "Dragunov": {
+                    "inputs": [
+                    ]
+                },
+                "Feng": {
+                    "inputs": [
+                    ]
+                },
+                "Panda": {
+                    "inputs": [
+                    ]
+                },
+                "Lee": {
+                    "inputs": [
+                    ]
+                },
+                "Alisa": {
+                    "inputs": [
+                    ]
+                },
+                "Zafina": {
+                    "inputs": [
+                    ]
+                },
+                "Devil Jin": {
+                    "inputs": [
+                    ]
+                },
+                "Victor": {
+                    "inputs": [
+                    ]
+                },
+                "Reina": {
+                    "inputs": [
+                    ]
+                }
+            }
+        },
+        "uni2": {
+            "inputs": [
+                "A.png",
+                "B.png",
+                "C.png",
+                "D.png",
+                "1.png",
+                "2.png",
+                "3.png",
+                "4.png",
+                "5.png",
+                "6.png",
+                "7.png",
+                "8.png",
+                "9.png",
+                "cancel.png",
+                ",.png",
+                "~.png",
+                "+.png",
+                "slash.png",
+                "dl..png",
+                "w..png",
+                "j..png",
+                "dj..png",
+                "jc.png",
+                "md..png",
+                "TK..png",
+                "(.png",
+                ").png",
+                "[.png",
+                "].png",
+                "{.png",
+                "}.png",
+                "CH.png",
+                "CS.png",
+                "CVO.png",
+                "IW.png",
+                "IWEX.png"
+            ],
+            "characters": {
+                "Kuon": {
+                    "inputs": [
+
+                    ]
+                },
+                "Phonon": {
+                    "inputs": [
+                        
+                    ]
+                },
+                "Naanase": {
+                    "inputs": [
+
+                    ]
+                },
+                "Seth": {
+                    "inputs": [
+
+                    ]
+                },
+                "Waldstein": {
+                    "inputs": [
+
+                    ]
+                },
+                "Hyde": {
+                    "inputs": [
+
+                    ]
+                },
+                "Linne": {
+                    "inputs": [
+
+                    ]
+                },
+                "Carmine": {
+                    "inputs": [
+
+                    ]
+                },
+                "Yuzuriha": {
+                    "inputs": [
+
+                    ]
+                },
+                "Byakuya": {
+                    "inputs": [
+
+                    ]
+                },
+                "Mika": {
+                    "inputs": [
+
+                    ]
+                },
+                "Kaguya": {
+                    "inputs": [
+
+                    ]
+                },
+                "Eltnum": {
+                    "inputs": [
+
+                    ]
+                },
+                "Tsurugi": {
+                    "inputs": [
+
+                    ]
+                },
+                "Hilda": {
+                    "inputs": [
+
+                    ]
+                },
+                "Merkava": {
+                    "inputs": [
+
+                    ]
+                },
+                "Orie": {
+                    "inputs": [
+
+                    ]
+                },
+                "Wagner": {
+                    "inputs": [
+
+                    ]
+                },
+                "Enkidu": {
+                    "inputs": [
+
+                    ]
+                },
+                "Gordeau": {
+                    "inputs": [
+
+                    ]
+                },
+                "Vatista": {
+                    "inputs": [
+
+                    ]
+                },
+                "Chaos": {
+                    "inputs": [
+
+                    ]
+                },
+                "Londrekia": {
+                    "inputs": [
+
+                    ]
+                },
+                "Akatsuki": {
+                    "inputs": [
+
+                    ]
+                }
+            }
+        }
+    }
+}
