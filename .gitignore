@@ -1,4 +1,5 @@
-images/*
+*.pdn
+images/*-output/*
 notes.txt
 
 # Byte-compiled / optimized / DLL files
